@@ -1,6 +1,10 @@
 {
-    "title":"xtawa(Xihao Zhang)'s blog",
+    "title":"xtawa's blog",
     "subTitle":"Blog description",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "startSite":"07/08/2025",
+    "bottomText":"若需转载请联系本人，禁止任何未经授权的转载",
+    "homeUrl":"http://xtawa.top",
+    "onePageListNum":15,
     "GMEEK_VERSION":"last"
 }
