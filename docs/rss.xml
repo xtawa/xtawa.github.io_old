@@ -1,22 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>xtawa's blog</title><link>http://xtawa.top</link><description>一沙一世界,一花一天堂。君掌盛无边,刹那成永恒。</description><copyright>xtawa's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic.xtawa.top/file/AgACAgEAAyEGAASlhh0RAAMHaG3CDvfMsrN1fkKuzGXp93bwdg4AAluwMRvz0HFHodVfe96zLgoBAAMCAAN5AAM2BA.png</url><title>avatar</title><link>http://xtawa.top</link></image><lastBuildDate>Wed, 09 Jul 2025 05:15:32 +0000</lastBuildDate><managingEditor>xtawa's blog</managingEditor><ttl>60</ttl><webMaster>xtawa's blog</webMaster><item><title>联系方式</title><link>http://xtawa.top/post/lian-xi-fang-shi.html</link><description>E-mail-1: zaz203@outlook.com 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>xtawa's blog</title><link>http://xtawa.top</link><description>一沙一世界,一花一天堂。君掌盛无边,刹那成永恒。</description><copyright>xtawa's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic.xtawa.top/file/AgACAgEAAyEGAASlhh0RAAMHaG3CDvfMsrN1fkKuzGXp93bwdg4AAluwMRvz0HFHodVfe96zLgoBAAMCAAN5AAM2BA.png</url><title>avatar</title><link>http://xtawa.top</link></image><lastBuildDate>Wed, 09 Jul 2025 05:19:31 +0000</lastBuildDate><managingEditor>xtawa's blog</managingEditor><ttl>60</ttl><webMaster>xtawa's blog</webMaster><item><title>联系方式</title><link>http://xtawa.top/post/lian-xi-fang-shi.html</link><description>E-mail-1: zaz203@outlook.com 
 E-mail-2: zeromostia@gmail.com
 Coolapk: xtawa
 
 ### 注意
 
-不提供任何机型刷机服务，若有疑问请联系我。</description><guid isPermaLink="true">http://xtawa.top/post/lian-xi-fang-shi.html</guid><pubDate>Wed, 09 Jul 2025 05:14:57 +0000</pubDate></item><item><title>Ticwatch Pro 3 工厂包</title><link>http://xtawa.top/post/Ticwatch%20Pro%203%20-gong-chang-bao.html</link><description>Ticwatch Pro 3 的官方固件，Pro X 不可使用
-
-回锁后可正常更新
-
-链接([百度云](https://pan.baidu.com/s/1rBC2QV5TH2YYHln-YqdTnA))提取码: lyxy 
-
-感谢：
-
-固件来源：fix666 手机维修论坛
-([点击前往](https://fix666.com/forum.php?mod=viewthread&amp;tid=168))
-
-若侵权，请联系我删除(zaz203@outlook.com)。</description><guid isPermaLink="true">http://xtawa.top/post/Ticwatch%20Pro%203%20-gong-chang-bao.html</guid><pubDate>Wed, 09 Jul 2025 05:12:01 +0000</pubDate></item><item><title>Ticwatch Pro X(3) 自用官改包</title><link>http://xtawa.top/post/Ticwatch%20Pro%20X%283%29%20-zi-yong-guan-gai-bao.html</link><description>
+不提供任何机型刷机服务，若有疑问请联系我。</description><guid isPermaLink="true">http://xtawa.top/post/lian-xi-fang-shi.html</guid><pubDate>Wed, 09 Jul 2025 05:14:57 +0000</pubDate></item><item><title>Ticwatch Pro X(3) 自用官改包</title><link>http://xtawa.top/post/Ticwatch%20Pro%20X%283%29%20-zi-yong-guan-gai-bao.html</link><description>
 做了一个ticwatch pro x国内官改包，Rover(LTE)已刷入测试，Rubyfish请勿刷入
 
 🔔注意🔔
@@ -63,4 +52,17 @@ ps.第一次用markdown写文章，可能不太熟练，还请谅解。</descrip
 &gt; Migration article,contains some external elements.
 
 #### 【注意】本文操作均有风险，楼主不对按照本帖操作所引起的后果负任何责任。</description><guid isPermaLink="true">http://xtawa.top/post/ji-yi-ci-dian-zi-ban-pai-po-jie-ji-lu.html</guid><pubDate>Wed, 09 Jul 2025 01:32:18 +0000</pubDate></item><item><title>测试</title><link>http://xtawa.top/post/ce-shi.html</link><description># Test
-#### Github pages。</description><guid isPermaLink="true">http://xtawa.top/post/ce-shi.html</guid><pubDate>Tue, 08 Jul 2025 13:45:08 +0000</pubDate></item></channel></rss>
+#### Github pages。</description><guid isPermaLink="true">http://xtawa.top/post/ce-shi.html</guid><pubDate>Tue, 08 Jul 2025 13:45:08 +0000</pubDate></item><item><title>Ticwatch Pro 3 工厂包</title><link>http://xtawa.top/post/Ticwatch%20Pro%203%20-gong-chang-bao.html</link><description>Ticwatch Pro 3 的官方固件，Pro X 不可使用
+
+回锁后可正常更新
+
+链接([百度云](https://pan.baidu.com/s/1rBC2QV5TH2YYHln-YqdTnA))提取码: lyxy 
+
+感谢：
+
+固件来源：fix666 手机维修论坛
+([点击前往](https://fix666.com/forum.php?mod=viewthread&amp;tid=168))
+
+若侵权，请联系我删除(zaz203@outlook.com)
+
+&lt;!-- ##{'timestamp':1728278302}## --&gt;。</description><guid isPermaLink="true">http://xtawa.top/post/Ticwatch%20Pro%203%20-gong-chang-bao.html</guid><pubDate>Mon, 07 Oct 2024 05:18:22 +0000</pubDate></item></channel></rss>
