@@ -1,12 +1,14 @@
 {
     "title":"xtawa's blog",
     "subTitle":"一沙一世界,一花一天堂。君掌盛无边,刹那成永恒。",
-    "avatarUrl":"https://pic.xtawa.top/file/AgACAgEAAyEGAASlhh0RAAMEaG0sHFtVSvjlThDnxEIfteQOw_8AAuWtMRvJU2hH6bmJzlu390gBAAMCAAN5AAM2BA.jpeg",
+    "avatarUrl":"https://pic.xtawa.top/file/AgACAgEAAyEGAASlhh0RAAMHaG3CDvfMsrN1fkKuzGXp93bwdg4AAluwMRvz0HFHodVfe96zLgoBAAMCAAN5AAM2BA.png",
     "startSite":"07/08/2025",
-    "bottomText":"若需转载请联系本人，禁止任何未经授权的转载",
+    "bottomText":"禁止任何未经授权的转载",
     "homeUrl":"http://xtawa.top",
     "onePageListNum":15,
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "i18n":"CN",
+    "UTC":8,
     "GMEEK_VERSION":"last"
 }
