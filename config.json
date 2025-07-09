@@ -10,7 +10,6 @@
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "i18n":"CN",
     "style":"<style>#postBody{font-size:20px}</style>",
-       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9989518358486134"
-     crossorigin="anonymous"></script>
+       "script":"<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9989518358486134'   crossorigin="anonymous"></script>"，
     "GMEEK_VERSION":"last"
 }
