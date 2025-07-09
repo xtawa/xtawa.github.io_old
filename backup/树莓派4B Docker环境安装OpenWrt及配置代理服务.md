@@ -165,11 +165,11 @@ sudo systemctl enable eth0-promisc
 
 OpenClash端口为 7890
 
-![Screenshot_20250502-141251](https://raw.githubusercontent.com/zaz203/zaz203.github.io/main/images/Screenshot_20250502-141251.png)
+![一张Android设置界面截图，显示了如何配置代理。](https://pic.xtawa.top/file/AgACAgEAAyEGAASlhh0RAAMIaG3LPoQtmbj6NqX3AAGwhwG-6ZfkAAJgsDEb89BxR3K4cB0Qyi8LAQADAgADeQADNgQ.png)
 
 对于 Windows 设备，在`网络与Internet连接-代理-手动设置`页面设置。
 
-![屏幕截图 2025-05-02 141631](https://raw.githubusercontent.com/zaz203/zaz203.github.io/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-02%20141631.png)
+![展示了Windows的代理配置界面](https://pic.xtawa.top/file/AgACAgEAAyEGAASlhh0RAAMJaG3LU41JnAjfqdsoZZvxOg1us9cAAmGwMRvz0HFHnYACE45XjQUBAAMCAAN5AAM2BA.png)
 
 > [!NOTE]
 >
@@ -193,7 +193,7 @@ OpenClash端口为 7890
 
 2.点击`全局设置`，点击下方`切换页面到 Fake-IP 模式`，选择增强，按如图所示配置。
 
-![屏幕截图 2025-05-02 142508](https://raw.githubusercontent.com/zaz203/zaz203.github.io/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-02%20142508.png)
+![OpenClash设置界面](https://pic.xtawa.top/file/AgACAgEAAyEGAASlhh0RAAMKaG3LaHkV7IjO8ufJAf8-s9WTaDwAAuyuMRv4BnFHzS0e8VaOUU4BAAMCAAN5AAM2BA.png)
 
 > [!IMPORTANT]
 >
