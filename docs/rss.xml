@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>xtawa's blog</title><link>http://xtawa.top</link><description>一沙一世界,一花一天堂。君掌盛无边,刹那成永恒。</description><copyright>xtawa's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic.xtawa.top/file/AgACAgEAAyEGAASlhh0RAAMHaG3CDvfMsrN1fkKuzGXp93bwdg4AAluwMRvz0HFHodVfe96zLgoBAAMCAAN5AAM2BA.png</url><title>avatar</title><link>http://xtawa.top</link></image><lastBuildDate>Wed, 09 Jul 2025 01:47:26 +0000</lastBuildDate><managingEditor>xtawa's blog</managingEditor><ttl>60</ttl><webMaster>xtawa's blog</webMaster><item><title>树莓派4B Docker环境安装OpenWrt及配置代理服务</title><link>http://xtawa.top/post/shu-mei-pai-4B%20Docker-huan-jing-an-zhuang-OpenWrt-ji-pei-zhi-dai-li-fu-wu.html</link><description>温馨提示：本文共1877词，大约需要十分钟阅读。</description><guid isPermaLink="true">http://xtawa.top/post/shu-mei-pai-4B%20Docker-huan-jing-an-zhuang-OpenWrt-ji-pei-zhi-dai-li-fu-wu.html</guid><pubDate>Wed, 09 Jul 2025 01:47:01 +0000</pubDate></item><item><title>记一次电子班牌破解记录</title><link>http://xtawa.top/post/ji-yi-ci-dian-zi-ban-pai-po-jie-ji-lu.html</link><description>&gt; [!NOTE]
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>xtawa's blog</title><link>http://xtawa.top</link><description>一沙一世界,一花一天堂。君掌盛无边,刹那成永恒。</description><copyright>xtawa's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic.xtawa.top/file/AgACAgEAAyEGAASlhh0RAAMHaG3CDvfMsrN1fkKuzGXp93bwdg4AAluwMRvz0HFHodVfe96zLgoBAAMCAAN5AAM2BA.png</url><title>avatar</title><link>http://xtawa.top</link></image><lastBuildDate>Wed, 09 Jul 2025 05:11:27 +0000</lastBuildDate><managingEditor>xtawa's blog</managingEditor><ttl>60</ttl><webMaster>xtawa's blog</webMaster><item><title>Ticwatch Pro X(3) 自用官改包</title><link>http://xtawa.top/post/Ticwatch%20Pro%20X%283%29%20-zi-yong-guan-gai-bao.html</link><description>
+做了一个ticwatch pro x国内官改包，Rover(LTE)已刷入测试，Rubyfish请勿刷入
+
+🔔注意🔔
+针对于原Ticwatch Pro 3用户，建议您前往本博客的另一篇文章(标志名:tic_pro3_stockcn_firm)
+
+[信息]
+
+刷机包类型: 线刷包
+
+适用机型代号: rover/rubyfish
+
+版本: Wear OS 2/安卓版本9
+
+作者:Luoyanxyy
+
+[修改的内容]
+
+1.开机动画
+
+2.boot.img
+
+3.recovery.img
+
+4.system应用(Nethunter提权app，可自行删除)
+
+5.oem.img
+
+[BUG]
+
+严重:可能无法使用屏幕锁定功能，若测试无法解锁请删除/data/system/lock_setting.db
+
+其他:无法使用OTA,开机动画被修改
+
+[链接]
+
+[固件](https://www.123pan.com/s/lfKyVv-iW98d.html) 提取码:grF4
+
+
+[备用链接](https://luoyanteam-my.sharepoint.com/:u:/g/personal/resdrive_luoyanteam_onmicrosoft_com/EXr1u5-e1JtDq4uNc4chntIBIXp6fUP-us8owZfS3ozlsg?e=sS9J2l)
+
+自用包，不接受反馈
+
+ps.第一次用markdown写文章，可能不太熟练，还请谅解。</description><guid isPermaLink="true">http://xtawa.top/post/Ticwatch%20Pro%20X%283%29%20-zi-yong-guan-gai-bao.html</guid><pubDate>Wed, 09 Jul 2025 05:10:57 +0000</pubDate></item><item><title>树莓派4B Docker环境安装OpenWrt及配置代理服务</title><link>http://xtawa.top/post/shu-mei-pai-4B%20Docker-huan-jing-an-zhuang-OpenWrt-ji-pei-zhi-dai-li-fu-wu.html</link><description>温馨提示：本文共1877词，大约需要十分钟阅读。</description><guid isPermaLink="true">http://xtawa.top/post/shu-mei-pai-4B%20Docker-huan-jing-an-zhuang-OpenWrt-ji-pei-zhi-dai-li-fu-wu.html</guid><pubDate>Wed, 09 Jul 2025 01:47:01 +0000</pubDate></item><item><title>记一次电子班牌破解记录</title><link>http://xtawa.top/post/ji-yi-ci-dian-zi-ban-pai-po-jie-ji-lu.html</link><description>&gt; [!NOTE]
 &gt; Migration article,contains some external elements.
 
 #### 【注意】本文操作均有风险，楼主不对按照本帖操作所引起的后果负任何责任。</description><guid isPermaLink="true">http://xtawa.top/post/ji-yi-ci-dian-zi-ban-pai-po-jie-ji-lu.html</guid><pubDate>Wed, 09 Jul 2025 01:32:18 +0000</pubDate></item><item><title>测试</title><link>http://xtawa.top/post/ce-shi.html</link><description># Test
